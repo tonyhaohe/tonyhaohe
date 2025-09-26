@@ -35,7 +35,7 @@ Computer Science MSci | Developer
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 
 ## 📫 Contact 
-![LinkedIn](https://www.linkedin.com/in/tony-he-birmingham/)
+[LinkedIn](https://www.linkedin.com/in/tony-he-birmingham/)
 
 <!--
 **tonyhaohe/tonyhaohe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
