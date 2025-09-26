@@ -1,7 +1,7 @@
 ## Tony He 👋
 Computer Science MSci | Developer
 
-### Skills 
+### 🛠 Skills 
 ### **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -33,6 +33,9 @@ Computer Science MSci | Developer
 ### **Productivity & Tools**  
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+
+## 📫 Contact 
+![LinkedIn](https://www.linkedin.com/in/tony-he-birmingham/)
 
 <!--
 **tonyhaohe/tonyhaohe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
