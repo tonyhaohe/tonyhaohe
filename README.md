@@ -31,7 +31,7 @@ Computer Science MSci | Developer
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ### **Productivity & Tools**  
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
+![Neovim](https://img.shields.io/badge/-NeoVim-black?style=flat&logo=neovim)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 
 ## 📫 Contact 
